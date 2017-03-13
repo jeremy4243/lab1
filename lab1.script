@@ -1,0 +1,32 @@
+命令稿啟動於 2017年03月14日 (週二) 06時25分04秒
+]0;wenchongchang@jeremy4243-x550ld: ~[01;32mwenchongchang@jeremy4243-x550ld[00m:[01;34m~[00m$ whoami;pwd
+wenchongchang
+/home/wenchongchang
+]0;wenchongchang@jeremy4243-x550ld: ~[01;32mwenchongchang@jeremy4243-x550ld[00m:[01;34m~[00m$ git config -;[Kl
+user.email=tyc02288742@gmail.com
+user.name=jeremy4243
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/jeremy4243/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+]0;wenchongchang@jeremy4243-x550ld: ~[01;32mwenchongchang@jeremy4243-x550ld[00m:[01;34m~[00m$ git clone http:s:[C//github.com/jeremy4243/lab1. git
+Cloning into 'lab1'...
+remote: Counting objects: 5, done.[K
+remote: Compressing objects:  50% (1/2)   [Kremote: Compressing objects: 100% (2/2)   [Kremote: Compressing objects: 100% (2/2), done.[K
+remote: Total 5 (delta 0), reused 3 (delta 0), pack-reused 0[K
+Unpacking objects:  20% (1/5)   Unpacking objects:  40% (2/5)   Unpacking objects:  60% (3/5)   Unpacking objects:  80% (4/5)   Unpacking objects: 100% (5/5)   Unpacking objects: 100% (5/5), done.
+Checking connectivity... done.
+]0;wenchongchang@jeremy4243-x550ld: ~[01;32mwenchongchang@jeremy4243-x550ld[00m:[01;34m~[00m$ ls
+[0m[01;32mcode[0m              [01;34mknking[0m       [01;34mmy[0m         [01;34m公共[0m  [01;34m模板[0m                      [01;34m音樂[0m
+code.c            [01;34mlab1[0m         README.md  [01;34m圖片[0m  無題 1.odt
+codee.odt         lab1.cpp     [01;34mtest[0m       [01;34m影片[0m  程設作業.odt
+code.odt          lab1.script  [01;34mtry[0m        [01;34m文件[0m  程設作業.odt_0.odt
+examples.desktop  [01;34mliu[0m          [01;34m下載[0m       [01;34m桌面[0m  程設作業.odt_0.odt_0.odt
+]0;wenchongchang@jeremy4243-x550ld: ~[01;32mwenchongchang@jeremy4243-x550ld[00m:[01;34m~[00m$ exit
+
+命令稿已於 2017年03月14日 (週二) 06時27分53秒
+ 完成
